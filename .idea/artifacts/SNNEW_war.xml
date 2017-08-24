@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SNNEW:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SNNEW.war">
+      <element id="artifact" artifact-name="SNNEW:war exploded" />
+    </root>
+  </artifact>
+</component>
